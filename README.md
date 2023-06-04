@@ -1,6 +1,8 @@
 # Game of Life
 This is a web-based implementation of Conway's Game of Life written in Rust and WebAssembly. The Game of Life is a cellular automaton that simulates the evolution of cells based on a set of simple rules.
 
+## [View online](https://diogoos.github.io/wasm-gameoflife/)
+
 ## Features
 * Click to draw: You can interact with the simulation by clicking on the cells to toggle them between alive and dead states.
 * Pause and play: You can pause or resume the simulation at any time to observe or modify the state of the cells.
