@@ -9,6 +9,8 @@ This is a web-based implementation of Conway's Game of Life written in Rust and 
 * Step through generations: You can step through the generations of the simulation manually by clicking the "Step" button. This allows you to observe the progression of the cells one generation at a time.
 * Adjust background and framerate: You have the ability to adjust the background color and control the framerate of the simulation to speed up or slow down the animation.
 
+<a href="https://diogoos.github.io/wasm-gameoflife/"><img src="https://raw.githubusercontent.com/diogoos/wasm-gameoflife/main/gameoflifedemo.png" alt="Game of life demo" width="50%"></a>
+
 ## Building from source
 To run the Game of Life locally, you will need to have Rust and Node.js installed on your machine.
 
